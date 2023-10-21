@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="ApplicationContext" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/ru/spbstu/stepanov_gzh/portsimulator/common/AppConfiguration.java</file>
+        </fileset>
+        <fileset id="fileset2" name="SpringConfig" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/ru/spbstu/stepanov_gzh/portsimulator/config/SpringConfig.java</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>

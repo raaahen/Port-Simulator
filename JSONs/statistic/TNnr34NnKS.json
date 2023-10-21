@@ -1,0 +1,10 @@
+{
+  "countOfUnloadedShips": 40,
+  "averageWaitingTimeInQueue": 54362677,
+  "maxDelayTimeOfUnloading": 73592829,
+  "averageDelayTimeOfUnloading": 36902677,
+  "totalFineAmount": 47500,
+  "totalRequiredNumberOfBulkCranes": 1,
+  "totalRequiredNumberOfLiquidCranes": 1,
+  "totalRequiredNumberOfContainerCranes": 1
+}

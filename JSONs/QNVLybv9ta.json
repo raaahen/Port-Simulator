@@ -1,0 +1,844 @@
+{
+  "listOfShips": [
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 8,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#0",
+      "cargo": {
+        "type": "BULK",
+        "weight": 6272
+      },
+      "scheduledTimeForUnloading": 21600000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 12,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#1",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 5351
+      },
+      "scheduledTimeForUnloading": 21600000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 27,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#2",
+      "cargo": {
+        "type": "BULK",
+        "weight": 4935
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 20,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#3",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 3010
+      },
+      "scheduledTimeForUnloading": 7200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 11,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#4",
+      "cargo": {
+        "type": "BULK",
+        "weight": 4908
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 27,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#5",
+      "cargo": {
+        "type": "BULK",
+        "weight": 3171
+      },
+      "scheduledTimeForUnloading": 10800000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 7,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#6",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 7143
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 28,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#7",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 7497
+      },
+      "scheduledTimeForUnloading": 32400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 29,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#8",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 5480
+      },
+      "scheduledTimeForUnloading": 21600000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 5,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#9",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 2534
+      },
+      "scheduledTimeForUnloading": 7200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 4,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#10",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 6739
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 21,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#11",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 3432
+      },
+      "scheduledTimeForUnloading": 7200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 22,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#12",
+      "cargo": {
+        "type": "BULK",
+        "weight": 7192
+      },
+      "scheduledTimeForUnloading": 25200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 16,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#13",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 4086
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 21,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#14",
+      "cargo": {
+        "type": "BULK",
+        "weight": 5174
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 24,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#15",
+      "cargo": {
+        "type": "BULK",
+        "weight": 5331
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 5,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#16",
+      "cargo": {
+        "type": "BULK",
+        "weight": 6911
+      },
+      "scheduledTimeForUnloading": 21600000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 3,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#17",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 6744
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 24,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#18",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 3473
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 8,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#19",
+      "cargo": {
+        "type": "BULK",
+        "weight": 5332
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 8,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#20",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 3357
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 28,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#21",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 2790
+      },
+      "scheduledTimeForUnloading": 10800000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 28,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#22",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 7389
+      },
+      "scheduledTimeForUnloading": 21600000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 25,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#23",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 6354
+      },
+      "scheduledTimeForUnloading": 25200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 28,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#24",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 3020
+      },
+      "scheduledTimeForUnloading": 7200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 26,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#25",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 5940
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 30,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#26",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 4973
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 11,
+        "dayOfMonth": 1,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#27",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 6855
+      },
+      "scheduledTimeForUnloading": 28800000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 26,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#28",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 4651
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 23,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#29",
+      "cargo": {
+        "type": "BULK",
+        "weight": 5800
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 22,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#30",
+      "cargo": {
+        "type": "BULK",
+        "weight": 5387
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 27,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#31",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 5374
+      },
+      "scheduledTimeForUnloading": 21600000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 25,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#32",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 5697
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 6,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#33",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 6355
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 13,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#34",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 6483
+      },
+      "scheduledTimeForUnloading": 28800000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 15,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#35",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 2840
+      },
+      "scheduledTimeForUnloading": 7200000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 5,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#36",
+      "cargo": {
+        "type": "LIQUID",
+        "weight": 7086
+      },
+      "scheduledTimeForUnloading": 28800000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 3,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#37",
+      "cargo": {
+        "type": "CONTAINER",
+        "weight": 5277
+      },
+      "scheduledTimeForUnloading": 14400000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 11,
+        "dayOfMonth": 1,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#38",
+      "cargo": {
+        "type": "BULK",
+        "weight": 5276
+      },
+      "scheduledTimeForUnloading": 18000000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    },
+    {
+      "scheduledTimeShipArrival": {
+        "year": 2022,
+        "month": 10,
+        "dayOfMonth": 29,
+        "hourOfDay": 16,
+        "minute": 43,
+        "second": 26
+      },
+      "name": "Ship_#39",
+      "cargo": {
+        "type": "BULK",
+        "weight": 3299
+      },
+      "scheduledTimeForUnloading": 10800000,
+      "actualTimeForUnloading": 0,
+      "waitingTimeForTheStartOfUnloading": 0,
+      "fine": 0,
+      "isArrived": false,
+      "isUnloaded": false
+    }
+  ]
+}
